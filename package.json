@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "calcxtea": "^1.0.1",
+    "chalkpasstea": "^1.0.0",
+    "colors": "^1.4.0",
+    "henlo-tea": "^1.0.3",
+    "jumlah-tiga-angka": "^1.0.0",
+    "metafi-data": "^1.0.1",
+    "ossteax": "^1.0.1",
+    "prompt-sync": "^4.2.0",
+    "rolluptea": "^1.0.1",
+    "stakefy": "^1.0.1",
+    "teafix": "^1.0.1",
+    "teavers": "^1.0.1",
+    "yoloxtea": "^1.0.4"
+  },
+  "name": "penjumlahantea",
+  "description": "",
+  "version": "1.0.0",
+  "main": "sum.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
